@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- theme colors -->
+    <color name="colorPrimary">#FF000000</color>
+    <color name="colorPrimaryDark">#FF000000</color>
+    <color name="colorAccent">#FFFFFFFF</color>
+
+    <!-- app colors -->
+    <color name="accent_light">#FFFFFFFF</color>
+    <color name="text_title">#FF000000</color>
+    <color name="card_view_bg">#FF000000</color>
+
+    <!-- default colors -->
+    <color name="purple_200">#FFFFFFFF</color>
+    <color name="purple_500">#FF000000</color>
+    <color name="purple_700">#FF000000</color>
+    <color name="teal_200">#FFFFFFFF</color>
+    <color name="teal_700">#FF000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
